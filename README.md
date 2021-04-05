@@ -3,7 +3,7 @@
 
 Using NYC's Opendata source to explore property values from 2010 to 2019, within the five boroughs of New York City. 
 
-This code uses ```pandas``` to answer the following questions.
+This code uses ```pandas``` to answer the following questions and visualized them using ```matplotlib```.
   
    1. **How many properties are listed in this dataset?**
    2. **How much is the total property value for all the properties?**
