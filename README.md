@@ -15,4 +15,4 @@ This code uses ```pandas``` to answer the following questions.
   
 ![](https://github.com/tanhata/Property_Borough_Assessment/blob/main/NYC_property%20values.png)
 
-![](https://github.com/tanhata/Property_Borough_Assessment/blob/main/scatter plot_NYCprop Valuesindex.png)
+![](https://github.com/tanhata/Property_Borough_Assessment/blob/main/scatter%20plot_NYCprop%20Valuesindex.png)
