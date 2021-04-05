@@ -5,7 +5,7 @@ Using NYC's Opendata source to explore property values from 2010 to 2019, within
 
 This code uses ```pandas``` to answer the following questions.
   
-   1. **How many properties are listed here?**
+   1. **How many properties are listed in this dataset?**
    2. **How much is the total property value for all the properties?**
    3. **What years is this dataset in reference to?**
    4. **How many properties are listed per year?**
