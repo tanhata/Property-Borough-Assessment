@@ -20,4 +20,5 @@ This code uses ```pandas``` to answer the following questions.
   What is the average property value per borough per years?
 
 ![](NYC_property values.png)
+
 ![](scatter plot_NYCprop Valuesindex.png)
